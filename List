@@ -1,7 +1,26 @@
-Value : INTERNET
+All Important Permissions
 
-Add This line to your Android Manifest file in Android Studio
+YOU CAN GET TIPS AND TRICKS IN www.hixeltechshub.com
+Value: INTERNET
+
+Add This lines to your Android Manifest file in Android Studio
 
 Syntax:
-
 <uses-permission android:name="android.permission.INTERNET"/>
+
+Value: CAMERA
+Syntax:
+<uses-permission android:name="android.permission.CAMERA"/> 
+
+Value: BATTERY STATS
+Syntax:
+<uses-permission android:name="android.permission.BATTERY_STATS"/> 
+
+Value: WIFI
+Syntax:
+<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/> 
+
+INSTEAD OF FINGERPRINT USE BIOMETRIC
+Value: BIOMETRIC
+Syntax:
+<uses-permission android:name="android.permission.USE_BIOMETRIC"/> 
