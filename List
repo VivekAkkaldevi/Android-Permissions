@@ -1,0 +1,7 @@
+Value : INTERNET
+
+Add This line to your Android Manifest file in Android Studio
+
+Syntax:
+
+<uses-permission android:name="android.permission.INTERNET"/>
